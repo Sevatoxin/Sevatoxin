@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sevatoxin
-- 👨🏻‍💻 26 years old and aspiring gamedev and programmer
-- 🩷 Using Love2d and Lua to create games
-- 🃏 Favorite game genre: card games
+- 👨🏻‍💻 26 years old, gamedev and programmer
+- 🐍 Learning Python at the moment
+- 🃏 Favorite game genre: card games, turn based RPGs.
 
 <!---
 Sevatoxin/Sevatoxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
