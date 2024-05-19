@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sevatoxin
 - 👨🏻‍💻 26 years old, gamedev and programmer
-- 🐍 Learning Python at the moment
 - 🃏 Favorite game genre: card games, turn based RPGs.
 
 <!---
